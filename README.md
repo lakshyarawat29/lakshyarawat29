@@ -18,6 +18,18 @@ I'm into tech stuff pretty much overwhelming to me each time I'm close to my <br
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🚀 Featured Projects
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [Airavat](https://github.com/lakshyarawat29/airavat) | Solidity, Foundry, FastAPI, Web3.js | Privacy-first FinTech data-sharing using ZKP + Blockchain |
+| [DevTalk](https://github.com/lakshyarawat29/matchr) | React, Node.js, Socket.io | Real-time developer chat platform with topic-based rooms |
+
+![Programming is Life](https://img.shields.io/badge/-code%20lover-red?style=flat&logo=appveyor)
+![Blockchain Enthusiast](https://img.shields.io/badge/-blockchain-blueviolet?style=flat-square)
+![Hackathon Winner](https://img.shields.io/badge/-Hackathons-yellowgreen?style=flat-square)
+
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lakshyarawat29&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
