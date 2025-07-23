@@ -15,6 +15,10 @@ I'm into tech stuff pretty much overwhelming to me each time I'm close to my <br
 ![](https://nirzak-streak-stats.vercel.app/?user=lakshyarawat29&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarawat29&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lakshyarawat29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
