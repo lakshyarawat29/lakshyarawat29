@@ -1,3 +1,6 @@
+<h1 align="center" style="font-size: 3rem;">👋 Hello Devs, I'm <span style="color:#f97316">Lakshya Rawat</span></h1>
+
+
 # 💫 About Me:
 I'm into tech stuff pretty much overwhelming to me each time I'm close to my <br>system it feels like I have immense power to give the birth to something <br>curious running through my mind.
 
